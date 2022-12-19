@@ -77,4 +77,4 @@ blog({
 
 Beware to use .tsx extension to this extent.
 
-[Learn more here.](https://github.com/denoland/deno_blog)
+.
