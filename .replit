@@ -5,7 +5,7 @@ run = [
     "--lock-write",
     "--allow-all",
     "--no-check",
-    "index.ts"
+    "index.ts",
 ]
 
 hidden = [".deno"]

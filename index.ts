@@ -1,9 +1,9 @@
-import blog from "https://deno.land/x/blog/blog.tsx";
+import blog, { ga } from "https://deno.land/x/blog/blog.tsx";
 
 
 blog({
-  title: "Israel's Blog",
-  author: "Israel",
+  title: "Izzy's Blog",
+  author: "Izzy",
   avatar: "./avatar.png",
   avatarClass: "full",
   dateStyle: "long",
@@ -11,6 +11,9 @@ blog({
     { title: "Email", url: "mailto:imky171@gmail.com" },
     { title: "GitHub", url: "https://github.com/mordy-python" },
   ],
-    favicon: "avatar.png",
-  background: "#282a36"
+  background: "#282a36",
+  favicon: "avatar.png",
+  middlewares: [
+      ga("G-S5NPJWFP61"),
+    ],
 });

@@ -76,5 +76,3 @@ blog({
 ```
 
 Beware to use .tsx extension to this extent.
-
-.
