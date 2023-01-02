@@ -1,5 +1,6 @@
 {
   "tasks": {
-    "dev": "deno run --allow-net --allow-read --allow-env=NODE_DEBUG --watch --no-check index.js --dev"
+    "dev": "deno run --allow-net --allow-read --allow-env=NODE_DEBUG --watch --no-check index.ts --dev",
+    "run": "deno run --allow-all --lock=lock.json --lock-write --no-check index.ts"
   }
 }

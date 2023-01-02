@@ -4,7 +4,7 @@ publish_date: 2022-12-18
 tags: ["About Me"]
 ---
 
-Welcome to my blog, my name is Israel, but I also go by Izzy. My pronouns are they/them, please respect them. 
+Welcome to my blog, my name is Izzy. 
 
 ### My Hobbies
 

@@ -15,5 +15,6 @@ blog({
   favicon: "avatar.png",
   middlewares: [
       ga("G-S5NPJWFP61"),
-    ],
+  ],
+  style: "em { color: #7ac9dc; font-style: normal; } ul, ol { list-style-type: disc; }"
 });

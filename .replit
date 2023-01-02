@@ -1,11 +1,7 @@
 run = [
     "deno",
-    "run",
-    "--lock=lock.json",
-    "--lock-write",
-    "--allow-all",
-    "--no-check",
-    "index.ts",
+    "task",
+    "run"
 ]
 
 hidden = [".deno"]
