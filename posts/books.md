@@ -26,3 +26,7 @@ The setting is described exceptionally well and I can picture the forest in my m
 - Genre: Fanatasy
 - Rating: 👍
 - Progress: 115/304
+
+### Bye
+
+Thank you for visiting! If you have any questions or comments you can email me at [imky171 at gmail dot com](mailto:imky171@gmail.com)
